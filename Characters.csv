@@ -1,0 +1,3 @@
+Name, HP, MP, Speed, Defense, Attack, (Ability) name, type, description, damage, heal, manaCost
+Knight,100,10,10,10,10,Attack,Basic Attack,Attacks a foe,15,0,0,
+Sage,80,10,10,10,10,Attack,Mage Basic Attack,Attacks a foe,10,0,1,Heal,Recovery,Heals yourself,0,20,3,Fire,Magic Attack,Launches a fireball at opponent,20,0,5
